@@ -1,5 +1,5 @@
 # Paris Olympics Data Analysis Project
-Project Overview
+# Project Overview
 This project is an end-to-end data engineering and analysis pipeline designed to handle and analyze data for the upcoming Paris Olympics. The project demonstrates the integration of various Microsoft Azure services with Power BI to extract, transform, load, and visualize the data effectively.
 The dataset used in this project was sourced from Kaggle and included details relevant to the Paris Olympics. This project provides an in-depth understanding of the data engineering workflow, focusing on transforming raw data into meaningful insights.
 
